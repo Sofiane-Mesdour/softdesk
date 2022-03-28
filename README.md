@@ -22,7 +22,7 @@ L'API est développée en python à l'aide de Django Rest Framework.
 
 Python 3 est requis pour exécuter l'API.
 
-1. Cloner ce dépôt en utilisant `$ git clone ` (you can also download the code using [as a zip file]())
+1. Cloner ce dépôt en utilisant `$ git clone ` (you can also download the code using [as a zip file](https://github.com/Sofiane-Mesdour/softdesk))
 2. Accédez au dossier racine du référentiel
 3. Créez un environnement virtuel avec`python -m venv env`
 4. Activez l'environnement virtuel avec `source env/bin/activate`
